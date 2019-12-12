@@ -1,0 +1,1 @@
+utterance sample covariance,speaker covariance,utterance covariance,covariance modeling,sample covariance,verification accuracy,
